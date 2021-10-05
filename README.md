@@ -10,7 +10,6 @@ Responsive Pages ✔
 
 Styling ✔
 
-
 Displays all accounts and current balance ✔
 
 Accounts retrived from API and stored in Redux ✔
