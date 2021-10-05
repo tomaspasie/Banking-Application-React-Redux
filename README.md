@@ -1,4 +1,4 @@
-# Banking Application
+# Banking Application (React/Redux) | Developed by Tomas Pasiecznik
 
 Link to Deployed Project (Hosted By Firebase): https://is322-project3-e05ae.web.app/
 
